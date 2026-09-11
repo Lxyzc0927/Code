@@ -1,0 +1,16 @@
+{
+  "source_sha256": "1d3ca3ebe41d951b4a09583b44771f64997c3d06e3f77f50c4d5a4021fbd0327",
+  "output_sha256": "74b4dccc46afd80dc06b8aebe997402638fd2c5c4d0d0e2e7d54e91a87583490",
+  "fixed_equations": {
+    "(5.1)": 1,
+    "(6.3)": 2,
+    "(8.6)": 2
+  },
+  "empty_arguments_before": 5,
+  "empty_arguments_after": 0,
+  "native_equation_count": 54,
+  "unchanged_other_equations": 51,
+  "removed_appendix_body_elements": 127,
+  "renamed_appendix": "附录D → 附录C 绘图完整源程序",
+  "unchanged_other_package_parts": true
+}
